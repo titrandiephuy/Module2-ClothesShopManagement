@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eA9EnRJRXX1LuMfOgcG8KJa47jnQvwQMcjz0wZbcwqXllrlZEI9qhEYbPu2HxyuFOB1TbMr3Kg0C9Omrzx4fSA==",
+  "success": true,
+  "projectFilePath": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothesShop/ClothesShop.csproj",
+  "expectedPackageFiles": [
+    "/Users/titrandiephuy/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

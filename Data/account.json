@@ -1,0 +1,19 @@
+{
+  "account": [
+    {
+      "usernames": "admin",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "usernames": "client",
+      "password": "4321",
+      "role": "client"
+    },
+    {
+      "usernames": "khachhang",
+      "password": "12345",
+      "role": "client"
+    }
+  ]
+}

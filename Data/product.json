@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Ao Thun Lanh",
+      "productPrice": 50000,
+      "quantity": 20
+    },
+    {
+      "productId": 2,
+      "productName": "Quần jean",
+      "productPrice": 150000,
+      "quantity": 40
+    },
+    {
+      "productId": 3,
+      "productName": "Áo sơ mi",
+      "productPrice": 200000,
+      "quantity": 75
+    },
+    {
+      "productId": 4,
+      "productName": "Quần đùi",
+      "productPrice": 50000,
+      "quantity": 80
+    },
+    {
+      "productId": 5,
+      "productName": "Áo vest",
+      "productPrice": 1000000,
+      "quantity": 25
+    },
+    {
+      "productId": 6,
+      "productName": "Ao ba lỗ",
+      "productPrice": 90000,
+      "quantity": 75
+    },
+    {
+      "productId": 7,
+      "productName": "Ao lot",
+      "productPrice": 20000,
+      "quantity": 12
+    }
+  ]
+}

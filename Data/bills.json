@@ -1,0 +1,297 @@
+{
+  "Bills": [
+    {
+      "BillId": 1,
+      "Date": "2021-10-10T00:00:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Quần jean",
+          "ProductPrice": 0,
+          "Quantity": 1,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 2,
+      "Date": "2021-08-22T12:33:17.60087+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 3,
+      "Date": "2021-08-22T12:34:17.251436+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 5,
+          "Amount": 0
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 5,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 4,
+      "Date": "2021-08-22T12:39:54.404115+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 4,
+          "Amount": 0
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 4,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 5,
+      "Date": "2021-08-22T13:17:28.296048+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 6,
+      "Date": "2021-08-22T13:18:35.133274+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 7,
+      "Date": "2021-08-22T13:39:05.893535+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 2,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 8,
+      "Date": "2021-08-22T14:21:58.074843+07:00",
+      "IsPaid": false,
+      "TotalAmount": 0,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 0,
+          "Quantity": 4,
+          "Amount": 0
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Quần jean",
+          "ProductPrice": 0,
+          "Quantity": 3,
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "BillId": 9,
+      "Date": "2021-08-22T14:32:58.345855+07:00",
+      "IsPaid": false,
+      "TotalAmount": 600000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 100000,
+          "Quantity": 2,
+          "Amount": 200000
+        },
+        {
+          "ProductId": 3,
+          "ProductName": "Áo sơ mi",
+          "ProductPrice": 200000,
+          "Quantity": 2,
+          "Amount": 400000
+        }
+      ]
+    },
+    {
+      "BillId": 10,
+      "Date": "2021-08-22T14:42:49.75513+07:00",
+      "IsPaid": false,
+      "TotalAmount": 650000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Áo thun",
+          "ProductPrice": 100000,
+          "Quantity": 2,
+          "Amount": 200000
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Quần jean",
+          "ProductPrice": 150000,
+          "Quantity": 3,
+          "Amount": 450000
+        }
+      ]
+    },
+    {
+      "BillId": 11,
+      "Date": "2021-08-23T14:14:09.883609+07:00",
+      "IsPaid": false,
+      "TotalAmount": 13500000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Ao Thun Lanh",
+          "ProductPrice": 50000,
+          "Quantity": 10,
+          "Amount": 500000
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Quần jean",
+          "ProductPrice": 150000,
+          "Quantity": 20,
+          "Amount": 3000000
+        },
+        {
+          "ProductId": 5,
+          "ProductName": "Áo vest",
+          "ProductPrice": 1000000,
+          "Quantity": 10,
+          "Amount": 10000000
+        }
+      ]
+    },
+    {
+      "BillId": 12,
+      "Date": "2021-08-23T14:14:58.66253+07:00",
+      "IsPaid": false,
+      "TotalAmount": 1000000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Ao Thun Lanh",
+          "ProductPrice": 50000,
+          "Quantity": 2,
+          "Amount": 100000
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Quần jean",
+          "ProductPrice": 150000,
+          "Quantity": 5,
+          "Amount": 750000
+        },
+        {
+          "ProductId": 4,
+          "ProductName": "Quần đùi",
+          "ProductPrice": 50000,
+          "Quantity": 3,
+          "Amount": 150000
+        }
+      ]
+    },
+    {
+      "BillId": 13,
+      "Date": "2021-08-25T14:17:30.845147+07:00",
+      "IsPaid": false,
+      "TotalAmount": 300000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Ao Thun Lanh",
+          "ProductPrice": 50000,
+          "Quantity": 2,
+          "Amount": 100000
+        },
+        {
+          "ProductId": 3,
+          "ProductName": "Áo sơ mi",
+          "ProductPrice": 200000,
+          "Quantity": 1,
+          "Amount": 200000
+        }
+      ]
+    }
+  ]
+}
